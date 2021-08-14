@@ -42,7 +42,7 @@
 
         <div class="col-lg-6">
             <div class="box-element">
-                <a class="btn btn-outline-dark" href="{% url 'cart' %}}">&#x2190; Back to Cart</a>
+                <a class="btn btn-outline-dark" href="{% url 'cart' %}">&#x2190; Back to Cart</a>
                 <hr>
                 <h3>Order Summary</h3>
                 <hr>
@@ -56,8 +56,8 @@
                 {% endfor %}
 
 
-                <h5>Itmes:{{order.get_cart_items}}</h5>
-                <h5>Total: Rs-{{order.get_cart_total|floatformat:2}}</h5>
+                <h5>Itmes : {{order.get_cart_items}}</h5>
+                <h5>Total : Rs-{{order.get_cart_total|floatformat:2}}</h5>
             </div>
 
         </div>
