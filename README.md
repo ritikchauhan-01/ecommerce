@@ -13,9 +13,10 @@ when the user is not aunthenticated I have made the use of cookie so that site w
 Payment option is availabel [Here I have used the paypal script].
 
 To run this you need to create your virtual enviroment and then install the required things.
-* clone using $ git clone git@github.com:ritikchauhan-01/ecommerce.git ecommerce && cd ecommerce
+* clone using $ git clone https://github.com/ritikchauhan-01/ecommerce.git ecommerce && cd ecommerce
 
-#Run
+# Run
+---------
 
 * Install virtualenv
    * on Ubuntu: $ sudo apt install python-virtualenv
@@ -38,14 +39,14 @@ To run this you need to create your virtual enviroment and then install the requ
 That's it. Open web browser and hit the url http://127.0.0.1:8000/
 
 
-store page 
+# Store page 
 ![Ecom](https://user-images.githubusercontent.com/56171689/129575173-e5fb89ec-6b59-4425-a34e-ed7f46318af4.png)
 
-cart page
+# Cart page
 ![Ecom (1)](https://user-images.githubusercontent.com/56171689/129575223-a0995ccf-849a-4ba2-86d9-d2af4c7f975b.png)
 
-checkout page
+# Checkout page
 ![Ecom (2)](https://user-images.githubusercontent.com/56171689/129575270-fd236d54-2ef5-4148-b84b-c8c2e3ad97da.png)
 
-payment page
+# Payment page
 ![Screenshot from ](https://user-images.githubusercontent.com/56171689/129576223-ca9ada16-a2df-435a-8842-c0f4d8899a13.png)
