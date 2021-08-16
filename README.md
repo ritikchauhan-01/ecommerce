@@ -8,14 +8,14 @@ In this **project** , I have created the clone of the **ecommerce site** like fl
 When the user is logged in .
 We can add items to the cart and checkout the items to our shipping address.
 
-when the user is not aunthenticated I have made the use of cookie so that site working similar when the user is logged in .
+when the user is not aunthenticated I have made the use of cookie so that site working similar like when the user is logged in .
 
-Payment option is availabel [Here I have used the paypal script].
+Payment option is also availabel [Here I have used the paypal script].
 
 To run this you need to create your virtual enviroment and then install the required things.
 * clone using $ git clone https://github.com/ritikchauhan-01/ecommerce.git ecommerce && cd ecommerce
 
-# Run
+## Run
 ---------
 
 * Install virtualenv
@@ -37,6 +37,14 @@ To run this you need to create your virtual enviroment and then install the requ
 * Run the server $ python manage.py runserver
 
 That's it. Open web browser and hit the url http://127.0.0.1:8000/
+
+# For Admin login
+Create a Super User
+```
+$ python manage.py createsuperuser
+Username : admin
+Password : 12345678(you can also input the password
+```
 
 
 # Store page 
