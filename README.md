@@ -9,4 +9,4 @@ We can add items to the cart and checkout the items to our shipping address.
 
 when the user is not aunthenticated I have made the use of cookie so that site working similar when the user is logged in .
 
-Payment option is availabel [Here I have used the paypal script and buttons].
+Payment option is availabel [Here I have used the paypal script].
