@@ -20,3 +20,5 @@ cart page
 checkout page
 ![Ecom (2)](https://user-images.githubusercontent.com/56171689/129575270-fd236d54-2ef5-4148-b84b-c8c2e3ad97da.png)
 
+payment page
+![Screenshot from ](https://user-images.githubusercontent.com/56171689/129576223-ca9ada16-a2df-435a-8842-c0f4d8899a13.png)
