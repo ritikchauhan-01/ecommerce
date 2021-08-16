@@ -2,6 +2,8 @@
 
 In this project , I have created the clone of the ecommerce site like flipkart and amazon.
 
+Languages and framewrok used : python3 ,django ,Javascript ,HTML ,Css
+
 When the user is logged in .
 We can add items to the cart and checkout the items to our shipping address.
 
