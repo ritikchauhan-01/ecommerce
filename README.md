@@ -22,3 +22,5 @@ Clone the repository in your pc
 **Running the app**
 
 ``` python3 manage.py runserve ```
+
+Access the web app at: http://127.0.0.1:8000/
