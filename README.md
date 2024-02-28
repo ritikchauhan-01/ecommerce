@@ -1,3 +1,7 @@
+> Developed 70% of the website’s critical components, including the header, PLP, various PDPs, checkout, and cart
+  pages.
+> Implemented 5+ complex functionalities, enhancing the website’s user experience by 30%.
+
 **ABOUT**
 
 LIVE URL : https://lootera.herokuapp.com/
