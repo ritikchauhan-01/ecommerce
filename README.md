@@ -6,7 +6,7 @@
 
 LIVE URL : https://lootera.herokuapp.com/
 
-IT was an clone of an ecommerce site ( i.e like flipkart, Amazon etc.).IT consist of three pages which are dymanicllay linked . \
+An ecommerce site ( i.e like flipkart, Amazon etc.).IT consist of three pages which are dymanicllay linked . \
 1st -> home page which consist of different items \
 2nd -> cart page (the items which you have added to cart for order)\
 3rd -> shippment page with the payment option which can be integeration by the user.
